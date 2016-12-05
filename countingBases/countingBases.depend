@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1478654658 source:g:\countingbases\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iterator>
+	<ext/hash_map>
+	<functional>
+	<cstdlib>
+	<iomanip>
+
+1478656826 source:f:\countingbases\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iterator>
+	<ext/hash_map>
+	<functional>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
